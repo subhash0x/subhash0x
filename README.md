@@ -3,13 +3,13 @@
  <!-- <img align="left" alt="Subhash's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> -->
 </a>
 <a href="https://twitter.com/subhash_0x">
-  <img align="left" alt="Subhash Bhil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+ <!--   <img align="left" alt="Subhash Bhil | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> -->
 </a>
 <a href="https://www.linkedin.com/in/subhashx/">
-  <img align="left" alt="Subhash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   <!--  <img align="left" alt="Subhash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> -->
 </a>
 <a href="https://open.spotify.com/user/31dn7q3i6kq4otwv7xpi7qwmivme">
-  <img align="left" alt="Subhash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+ <!--   <img align="left" alt="Subhash's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" /> -->
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=subhash0x)
