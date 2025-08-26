@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Subhash Bhil](https://www.linkedin.com/in/subhashx/), a passionate self-taught Full Stack web developer and a cyber security enthusiast from India.
+Hi, I'm [Subhash Bhil](https://www.linkedin.com/in/subhashx/), a passionate self-taught Full Stack Web Developer and a Cyber Security Enthusiast.
 
 
 <img src = 'https://github.com/subhash0x/subhash0x/blob/main/me.jpeg' alt = 'Awesome Matrix Code' align='right' height='400px' width='400px' />
